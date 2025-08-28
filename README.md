@@ -3,8 +3,11 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nazmulislam&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulislam" /> </p>
+<h3 align="left">About me: </h3>
 
 - 🌱 I’m currently learning **Java,mySql**
+
+- 💙 Love coding in ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
 
 - 🤝 I’m looking for help with **DevOps**
 

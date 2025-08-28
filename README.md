@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
-<h3 align="center">A passionate mobile app developer from Bangladesh</h3>
+<h3 align="center">Undergraduate in Computer Science and Engineering from Leading University, Bangladesh. Enthusiastic about continuous learning, software development, and emerging technologies, with a drive to apply knowledge in real-world problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulislam&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulislam" /> </p>
 

@@ -2,7 +2,7 @@
 <h4 align="center">🎓 CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies | 🌱 Driven to Solve Real-World Problems</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulislam&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulislam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nazmulislam&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulislam" /> </p>
 
 - 🌱 I’m currently learning **Java,mySql**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
+<h1 align="center">Hi 👋, I'm Nazmul </h1>
 <h4 align="center">🎓 CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies | 🌱 Driven to Solve Real-World Problems</h4>
 
 

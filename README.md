@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul </h1>
 <h4 align="center">💡Idea generator, problem solver.
-📚 Forever curious, lifelong learner.
-🌍 Tech for a better world.
+📚Forever curious, lifelong learner.
+🌟Believer in possibilities.
 </h4>
 
 

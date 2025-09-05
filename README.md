@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazmul </h1>
-<h4 align="center">🎓 CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies | 🌱 Driven to Solve Real-World Problems</h4>
+<h4 align="center">💡Idea generator, problem solver.
+📚 Forever curious, lifelong learner.
+🌍 Tech for a better world.
+</h4>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nazmulislam&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulislam" /> </p>

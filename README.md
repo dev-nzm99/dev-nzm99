@@ -1,8 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Nazmul</h1>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dev-nzm99">
+    <img src="https://komarev.com/ghpvc/?username=dev-nzm99&label=Profile%20views&color=00FFFF&style=flat-square" alt="dev-nzm99's profile views" />
+  </a>
+</p>
 
-
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies.
@@ -15,9 +19,6 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=radical&hide_border=true&cache_seconds=86400" alt="dev-nzm99's GitHub Streak" width="49%" />
-</p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&theme=radical&radius=10" alt="dev-nzm99's Activity Graph" />
 </p>

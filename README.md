@@ -14,6 +14,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=radical&hide_border=true&cache_seconds=86400" alt="dev-nzm99's GitHub Streak" width="49%" />
+</p>
+<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&theme=radical&radius=10" alt="dev-nzm99's Activity Graph" />
 </p>
 

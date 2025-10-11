@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Nazmul</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies.

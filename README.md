@@ -7,9 +7,11 @@
 
 
 ## My Focus Areas
-- `App Development1`
-- `AI/ML Research`
-- `Open Source Contribution`
+- `Data Structures & Algorithms Mastery (DSA)`
+- `App Development & Software Engineering`
+- `AI/ML Research & Innovation`
+- `Open Source Contribution & Collaboration`
+
 
 
 ## GitHub Stats & Trophies

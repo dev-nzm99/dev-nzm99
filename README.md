@@ -3,7 +3,7 @@
 
 ## About Me
 
-- CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies.
+- CSE Undergraduate at Leading University, Sylhet | 💻 Passionate about Learning, Software Development & Emerging Technologies.
 
 
 ## My Focus Areas

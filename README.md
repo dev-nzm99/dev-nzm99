@@ -18,7 +18,7 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=react&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 <p align="center">
-  <img height="340em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&theme=radical&radius=10" alt="dev-nzm99's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&theme=radical&radius=10" alt="dev-nzm99's Activity Graph" />
 </p>
 
 

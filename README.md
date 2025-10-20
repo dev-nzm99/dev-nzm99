@@ -2,22 +2,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## About Me
+
 - CSE Undergraduate at Leading University, Bangladesh | 💻 Passionate about Learning, Software Development & Emerging Technologies.
 
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - App Development
 - AI/ML Research
 - Open Source Contribution
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&theme=radical&radius=10" alt="dev-nzm99's Activity Graph" />
 </p>
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-nzm99&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=react&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>

@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/github-header-banner%20(3).png" alt="Banner" width="100%" />
+<img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/github-header-banner%20(4).png" alt="Banner" width="100%" />
 
 ## About Me
 

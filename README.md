@@ -1,9 +1,6 @@
-
-<img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/github-header-banner%20(6).png" alt="Banner" width="100%" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=720&lines=__________Welcome+to+My+GitHub+Profile!__________;Strive+for+continuous+improvement%2C+not+perfection.)](https://git.io/typing-svg)
+  <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/nazmulislam-profile-banner.svg" alt="Banner" width="100%" />
 </div>
 
 

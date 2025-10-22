@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/nazmulislam-profile-banner%20(2).svg" alt="Banner" width="100%" />
+  <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/nazmulislam-profile-banner%20(4).svg" alt="Banner" width="100%" />
 </div>
 
 

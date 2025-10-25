@@ -2,3 +2,4 @@
 ## [Animated-Profile-Banner-Generator](https://github.com/Saviru/Animated-Profile-Banner-Generator)
 ## [Readme Typing SVG Generator](https://github.com/DenverCoder1/readme-typing-svg)
 ## [GitHub Profile Generator 1](https://www.github-profile-generator.in/)
+## [Snake game Generator](https://github.com/Platane/snk?tab=readme-ov-file)

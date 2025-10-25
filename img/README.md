@@ -5,3 +5,4 @@
 ## [GitHub Profile README Generator 2](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 ## [Snake game Generator](https://github.com/Platane/snk?tab=readme-ov-file)
 ## [github-readme-stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos)
+## [Generate metrics](https://github.com/lowlighter/metrics?tab=readme-ov-file)

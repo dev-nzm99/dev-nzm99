@@ -1,2 +1,3 @@
 ## [Capsule-Render Generator](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#color)
 ## [Animated-Profile-Banner-Generator](https://github.com/Saviru/Animated-Profile-Banner-Generator)
+## [Readme Typing SVG Generator](https://github.com/DenverCoder1/readme-typing-svg)

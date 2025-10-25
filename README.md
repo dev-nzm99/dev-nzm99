@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/nazmulislam-profile-banner%20(4).svg" alt="Banner" width="100%" />
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00bcd4&section=header&reversal=false&fontAlignY=48&textBg=false&fontSize=15&fontColor=87CEEB" alt="Bottom Line" width="100%"/>
 
 ## About Me
 
@@ -55,6 +55,6 @@
 > "Think big •  Stay curious •  Keep learning"
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00bcd4&section=footer&reversal=false&fontAlignY=48&textBg=false" alt="Bottom Line" width="100%" />
 </div>
 

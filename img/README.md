@@ -1,6 +1,7 @@
 ## [Capsule-Render Generator](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#color)
 ## [Animated-Profile-Banner-Generator](https://github.com/Saviru/Animated-Profile-Banner-Generator)
 ## [Readme Typing SVG Generator](https://github.com/DenverCoder1/readme-typing-svg)
-## [GitHub Profile Generator 1](https://www.github-profile-generator.in/)
+## [GitHub Profile README Generator 1](https://www.github-profile-generator.in/)
+## [GitHub Profile README Generator 2](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 ## [Snake game Generator](https://github.com/Platane/snk?tab=readme-ov-file)
 ## [github-readme-stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos)

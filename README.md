@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/nazmulislam-profile-banner%20(4).svg" alt="Banner" width="100%" />
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00bcd4&section=header&reversal=false&fontAlignY=48&textBg=false&fontSize=15&fontColor=87CEEB" alt="Bottom Line" width="100%"/>
 
 ## About Me
 

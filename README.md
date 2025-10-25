@@ -51,7 +51,7 @@
 
 
 ## Quote
-> [![Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCD4&width=481&lines=Think+big+%E2%80%A2+Stay+curious+%E2%80%A2+Keep+learning)](https://git.io/typing-svg)
+> [![Quote SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00BCD4&width=481&lines=Think+big+%E2%80%A2+Stay+curious+%E2%80%A2+Keep+learning)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00bcd4&section=footer&reversal=false&fontAlignY=48&textBg=false" alt="Bottom Line" width="100%" />
 

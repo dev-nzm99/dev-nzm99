@@ -10,7 +10,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=My+Focus+Areas)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=My+Focus+Areas)
 - `Data Structures & Algorithms Mastery (DSA)`
 - `App Development & Software Engineering`
 - `AI/ML Research & Innovation`
@@ -18,7 +18,7 @@
  ***
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=LeetCode+Stats)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=LeetCode+Stats)
 
 <p align="center">
   <!-- Clickable LeetCode Profile Card -->
@@ -41,7 +41,7 @@
 
 
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=GitHub+Stats+%26+Trophies)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=GitHub+Stats+%26+Trophies)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-nzm99&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
@@ -53,7 +53,7 @@
 </p>
 
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=Languages+%26+Tools)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=Languages+%26+Tools)
 
 
 <p align="center">

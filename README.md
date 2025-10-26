@@ -20,6 +20,22 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-nzm99&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=react&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
+
+## LeetCode Stats  
+
+<p align="center">
+  <a href="https://leetcode.com/nazmulislam92/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/nazmulislam92?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=20&bg=20232a&border_color=00bcd4&animation=true" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/nazmulislam92/">
+    <img src="https://img.shields.io/badge/LeetCode-nazmulislam92-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
+  </a>
+</p>
+
+
 <p align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="dev-nzm99's Activity Graph" />
 </p>

@@ -29,7 +29,7 @@
   </a>
 
   <!-- Solutions Repo Badge -->
-  <a href="[https://github.com/nazmulislam92/LeetCode-Solutions](https://github.com/dev-nzm99/LeetCode)">
+  <a href="https://github.com/dev-nzm99/LeetCode">   
     <img src="https://img.shields.io/badge/LeetCode-Solutions-00bcd4?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a" />
   </a>
 </p>

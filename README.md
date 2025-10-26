@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Clickable LeetCode Profile Card -->
-  <a href="https://leetcode.com/nazmulislam92/" target="_blank">
+  <a>
     <img src="https://leetcard.jacoblin.cool/nazmulislam92?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=20&bg=20232a&border_color=00bcd4&animation=true" alt="LeetCode Stats" />
   </a>
 </p>

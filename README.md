@@ -2,18 +2,23 @@
   <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/nazmulislam-profile-banner%20(4).svg" alt="Banner" width="100%" />
 </div>
 
-## About Me
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
 - CSE Undergraduate at Leading University, Sylhet | 💻 Passionate about Learning, Software Development & Emerging Technologies.
 
+##
 
-## My Focus Areas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=My+Focus+Areas)](https://git.io/typing-svg)
 - `Data Structures & Algorithms Mastery (DSA)`
 - `App Development & Software Engineering`
 - `AI/ML Research & Innovation`
 - `Open Source Contribution & Collaboration`
+ ***
 
-## LeetCode Stats  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=LeetCode+Stats)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Clickable LeetCode Profile Card -->
@@ -35,8 +40,9 @@
 </p>
 
 
+##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=GitHub+Stats+%26+Trophies)](https://git.io/typing-svg)
 
-## GitHub Stats & Trophies
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-nzm99&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=react&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
@@ -46,8 +52,9 @@
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="dev-nzm99's Activity Graph" />
 </p>
 
+##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=Languages+%26+Tools)](https://git.io/typing-svg)
 
-## Languages & Tools
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
@@ -71,8 +78,10 @@
 </p>
 
 
-## Quote
-> ![Quote SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00BCD4&width=481&lines=Think+big+%E2%80%A2+Stay+curious+%E2%80%A2+Keep+learning)
+##
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00BCD4&width=481&lines=Think+big+%E2%80%A2+Stay+curious+%E2%80%A2+Keep+learning" alt="Quote SVG">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00bcd4&section=footer&reversal=false&fontAlignY=48&textBg=false" alt="Bottom Line" width="100%" />
 

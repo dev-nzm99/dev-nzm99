@@ -23,13 +23,13 @@
 <p align="center">
   <!-- Clickable LeetCode Profile Card -->
   <a>
-    <img src="https://leetcard.jacoblin.cool/nazmulislam92?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=20&bg=20232a&border_color=00bcd4&animation=true" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/nazmulislam99?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=20&bg=20232a&border_color=00bcd4&animation=true" alt="LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
   <!-- Profile Badge -->
-  <a href="https://leetcode.com/nazmulislam92/">
+  <a href="https://leetcode.com/nazmulislam99/">
     <img src="https://img.shields.io/badge/LeetCode-nazmulislam92-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
   </a>
 

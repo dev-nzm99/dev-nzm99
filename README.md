@@ -30,7 +30,7 @@
 <p align="center">
   <!-- Profile Badge -->
   <a href="https://leetcode.com/nazmulislam99/">
-    <img src="https://img.shields.io/badge/LeetCode-nazmulislam92-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
+    <img src="https://img.shields.io/badge/LeetCode-nazmulislam99-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
   </a>
 
   <!-- Solutions Repo Badge -->

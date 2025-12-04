@@ -85,4 +85,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00bcd4&section=footer&reversal=false&fontAlignY=48&textBg=false" alt="Bottom Line" width="100%" />
 
-

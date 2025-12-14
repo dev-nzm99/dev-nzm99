@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)
 
-- CSE Undergraduate at Leading University, Sylhet | 💻 Passionate about Learning, Software Development & Emerging Technologies.
+- CS Undergraduate at Leading University, Sylhet | 💻 Passionate about Learning, Software Development & Emerging Technologies.
 
 ##
 

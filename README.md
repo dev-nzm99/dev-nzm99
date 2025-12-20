@@ -2,7 +2,6 @@
   <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/github-header-banner%20(6).png" alt="Banner" width="100%" />
 </div>
 
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)
 
 - CS Undergraduate at Leading University, Sylhet | 💻 Passionate about Learning, Software Development & Emerging Technologies.

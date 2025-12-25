@@ -42,10 +42,10 @@
 ##
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=GitHub+Stats+%26+Trophies)
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-nzm99&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=dev-nzm99&theme=react&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nzm99&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="dev-nzm99's Activity Graph" />

@@ -11,7 +11,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=My+Focus+Areas)
 - `Data Structures & Algorithms Mastery (DSA)`
-- `App Development & Software Engineering`
+- `Web Development & Software Engineering`
 - `AI/ML Research & Innovation`
 - `Open Source Contribution & Collaboration`
  ***

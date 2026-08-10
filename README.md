@@ -4,26 +4,15 @@
 
 </div>
 
-<!--
-<div align="center">
-  <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/github-header-banner%20(6).png" alt="Banner" width="100%" />
-</div>
--->
-
+#
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)
 
-- CS Undergraduate at Leading University, Sylhet | 💻 Passionate about Learning, Software Development & Emerging Technologies.
+**Problem Solver | Aspiring Full-Stack .NET Developer**  
+Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA, software development, emerging technologies, and open-source contribution**.
 
-##
+ **Learning. Building. Solving. Contributing.**
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=My+Focus+Areas)
-- `Data Structures & Algorithms Mastery (DSA)`
-- `Web Development & Software Engineering`
-- `AI/ML Research & Innovation`
-- `Open Source Contribution & Collaboration`
- ***
-
+ ##
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=LeetCode+Stats)
 

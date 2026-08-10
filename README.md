@@ -1,6 +1,14 @@
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I%20am%20Nazmul&fontSize=50&fontColor=00BCD4&animation=fadeIn&fontAlignY=35&desc=tech%20enthusiast%20|%20logical%20thinker%20|%20problem%20solver&descAlignY=55&descSize=20&descAlign=50)
+
+</div>
+
+<!--
+<div align="center">
   <img src="https://github.com/dev-nzm99/dev-nzm99/blob/main/img/github-header-banner%20(6).png" alt="Banner" width="100%" />
 </div>
+-->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)
 

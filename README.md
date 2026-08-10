@@ -8,9 +8,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)
 
 **Problem Solver | Aspiring Full-Stack .NET Developer**  
+
 Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA, software development, emerging technologies, and open-source contribution**.
 
- **Learning. Building. Solving. Contributing.**
+**Learning. Building. Solving. Contributing.**
 
  ##
 

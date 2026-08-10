@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I%20am%20Nazmul&fontSize=50&fontColor=00BCD4&animation=fadeIn&fontAlignY=35&desc=tech%20enthusiast%20|%20logical%20thinker%20|%20problem%20solver&descAlignY=55&descSize=20&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nazmul%20Islam&fontSize=60&fontColor=00BCD4&animation=fadeIn&fontAlignY=35&desc=Building%20Bridges%20Between%20Ideas%20and%20Machines&descAlignY=55&descSize=20&descAlign=50)
 
 </div>
 

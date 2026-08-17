@@ -25,7 +25,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
 <img src="https://leetcard.jacoblin.cool/nazmulislam99?theme=dark&ext=heatmap" width="100%" />
 
-<br><br>
+<br>
 
 <a href="https://leetcode.com/nazmulislam99/">
 <img src="https://img.shields.io/badge/LeetCode-nazmulislam99-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
@@ -41,7 +41,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Nazmul99&theme=dark" width="84%" />
 
-<br><br>
+<br>
 
 <a href="https://codeforces.com/profile/Nazmul99">
 <img src="https://img.shields.io/badge/Codeforces-Nazmul99-00bcd4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=20232a" />

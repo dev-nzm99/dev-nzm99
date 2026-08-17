@@ -30,11 +30,11 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 <a href="https://leetcode.com/nazmulislam99/">
 <img src="https://img.shields.io/badge/LeetCode-nazmulislam99-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
 </a>
-
+<!--
 <a href="https://github.com/dev-nzm99/LeetCode">
 <img src="https://img.shields.io/badge/LeetCode-Solutions-00bcd4?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a" />
 </a>
-
+-->
 </td>
 
 <td align="center" valign="top" width="50%">

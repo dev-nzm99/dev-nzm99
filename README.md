@@ -39,7 +39,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
 <td align="center" valign="top" width="50%">
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Nazmul99&theme=dark" width="100%" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Nazmul99&theme=dark" width="84%" />
 
 <br><br>
 

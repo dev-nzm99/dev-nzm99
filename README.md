@@ -15,26 +15,42 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
  ##
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=LeetCode+Stats)
 
-<p align="center">
-  <!-- Clickable LeetCode Profile Card -->
-  <a>
-    <img src="https://leetcard.jacoblin.cool/nazmulislam99?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=20&bg=20232a&border_color=00bcd4&animation=true" alt="LeetCode Stats" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=Coding+Profiles)
 
-<p align="center">
-  <!-- Profile Badge -->
-  <a href="https://leetcode.com/nazmulislam99/">
-    <img src="https://img.shields.io/badge/LeetCode-nazmulislam99-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
-  </a>
+<table align="center">
+<tr>
 
-  <!-- Solutions Repo Badge -->
-  <a href="https://github.com/dev-nzm99/LeetCode">   
-    <img src="https://img.shields.io/badge/LeetCode-Solutions-00bcd4?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a" />
-  </a>
-</p>
+<td align="center" valign="top" width="50%">
+
+<img src="https://leetcard.jacoblin.cool/nazmulislam99?theme=dark&ext=heatmap" width="100%" />
+
+<br><br>
+
+<a href="https://leetcode.com/nazmulislam99/">
+<img src="https://img.shields.io/badge/LeetCode-nazmulislam99-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=20232a" />
+</a>
+
+<a href="https://github.com/dev-nzm99/LeetCode">
+<img src="https://img.shields.io/badge/LeetCode-Solutions-00bcd4?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a" />
+</a>
+
+</td>
+
+<td align="center" valign="top" width="50%">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Nazmul99&theme=dark" width="100%" />
+
+<br><br>
+
+<a href="https://codeforces.com/profile/Nazmul99">
+<img src="https://img.shields.io/badge/Codeforces-Nazmul99-00bcd4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=20232a" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 
 ##

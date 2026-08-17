@@ -8,3 +8,4 @@
 ### [GitHub Profile README Generator 1](https://www.github-profile-generator.in/)
 ### [GitHub Profile README Generator 2](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 ### [Snake game Generator](https://github.com/Platane/snk?tab=readme-ov-file)
+### [codeforces-readme-stats](https://github.com/RedHeadphone/codeforces-readme-stats?utm_source=chatgpt.com)

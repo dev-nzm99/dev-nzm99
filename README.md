@@ -81,7 +81,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,react,nextjs,tailwind,postgres,mysql,flutter,dart,firebase,github,git,docker,azure,vscode,visualstudio,androidstudio,notion&perline=9)
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,react,nextjs,tailwind,postgres,firebase,github,git,docker,azure,vscode,visualstudio,notion&perline=9)
 
 </div>
 

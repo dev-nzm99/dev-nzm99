@@ -1,9 +1,14 @@
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<!--
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nazmul%20Islam&fontSize=60&fontColor=00BCD4&animation=fadeIn&fontAlignY=35&desc=Building%20Bridges%20Between%20Ideas%20and%20Machines&descAlignY=55&descSize=20&descAlign=50) 
 
 </div>
-
+-->
 
 
 #
@@ -68,11 +73,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 </p>
 -->
 
-##
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=GitHub+Contributions)
-
-![](./profile-3d-contrib/profile-night-green.svg)
 
 
 

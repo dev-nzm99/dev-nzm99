@@ -1,4 +1,4 @@
-
+<!------------------------Header section ----------------------------->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
@@ -10,7 +10,7 @@
 </div>
 -->
 
-
+<!------------------------About Me section ----------------------------->
 #
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)
 
@@ -22,6 +22,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
  ##
 
+<!------------------------Coding Profile section ----------------------------->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=Coding+Profiles)
 
@@ -59,6 +60,8 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 </tr>
 </table>
 
+
+<!------------------------Github Stats and Trophies section ----------------------------->
 <!--
 ##
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=GitHub+Stats+%26+Trophies)
@@ -74,8 +77,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 -->
 
 
-
-
+<!------------------------Lenguage & Tools section ----------------------------->
 
 ##
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=00BCD4&repeat=false&width=435&height=40&lines=Languages+%26+Tools)
@@ -86,6 +88,7 @@ Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA
 
 </div>
 
+<!------------------------Footer section ----------------------------->
 ##
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00BCD4&width=481&lines=Think+big+%E2%80%A2+Stay+curious+%E2%80%A2+Keep+learning" alt="Quote SVG">

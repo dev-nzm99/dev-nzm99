@@ -10,6 +10,7 @@
 </div>
 -->
 
+
 <!------------------------About Me section ----------------------------->
 #
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=00BCD4&repeat=false&width=435&lines=About+me)

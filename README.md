@@ -18,7 +18,7 @@
 
 Building my expertise in the **.NET ecosystem**, with a strong interest in **DSA, software development, emerging technologies, and open-source contribution**.
 
-**Learning. Building. Solving. Contributing.**
+**Learning | Building | Solving | Contributing**
 
  ##
 
